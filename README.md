@@ -21,8 +21,8 @@
         <li>Handcrafted textiles: Admire and purchase intricate textiles made by skilled artisans, reflecting the town's rich artistic heritage.</li>
     </ol>
 
-    <!-- Embedding the article -->
-    <iframe src="https://theculturetrip.com/north-america/mexico/articles/welcome-to-the-wonderful-world-of-san-juan-chamula-chiapas" width="100%" height="600px"></iframe>
+    <!-- Link to the article -->
+    <p>For more information about San Juan Chamula, you can visit <a href="https://theculturetrip.com/north-america/mexico/articles/welcome-to-the-wonderful-world-of-san-juan-chamula-chiapas" target="_blank">this article</a> on Culture Trip.</p>
 
     <!-- Adding the images -->
     <img src="https://photo620x400.mnstatic.com/1d31471872f024ec337cc57e66b1004c/san-juan-chamula.jpg" alt="San Juan Chamula Image 1" width="400">
